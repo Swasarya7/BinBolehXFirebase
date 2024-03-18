@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642617193824",
+    "project_id": "binboleh",
+    "storage_bucket": "binboleh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642617193824:android:1aab48f1349e9734a29a05",
+        "android_client_info": {
+          "package_name": "com.example.binbolehxfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQ30KpUKFlaAv7j8vK-_5SWicfwTNQGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
